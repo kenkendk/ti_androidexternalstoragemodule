@@ -17,15 +17,15 @@ The mkdfs variable is a reference to the Module object.
 ### dk.mikkendigital.mkdfs.externalStorageDirectory
 
 Returns the device external storage directory as a string.
-This is the same as calling [Environment.getExternalStorageDirectory()](https://developer.android.com/reference/android/os/Environment.html#getExternalStorageDirectory()).
+<a href="https://developer.android.com/reference/android/os/Environment.html#getExternalStorageDirectory()">This is the same as calling Environment.getExternalStorageDirectory()</a>.
 
 ### dk.mikkendigital.mkdfs.externalFilesDir
 
 Returns the applications external storage folder as a string.
-This is the same as calling [Context.getExternalFilesDir()]((https://developer.android.com/reference/android/content/Context.html#getExternalFilesDir(java.lang.String))).
+This is the same as calling <a href="https://developer.android.com/reference/android/content/Context.html#getExternalFilesDir(java.lang.String)">Context.getExternalFilesDir()</a>.
 
 ## Usage
-
+~~~
 // Create a file in the external storage folder
 if (Ti.Platform.name == "android" && Ti.Filesystem.isExternalStoragePresent()) {
 	var mkdfs = require('dk.mikkendigital.mkdfs');
@@ -37,6 +37,7 @@ if (Ti.Platform.name == "android" && Ti.Filesystem.isExternalStoragePresent()) {
 } else {
 	alert('No external storage found!');
 }
+~~~
 
 ## Author
 
