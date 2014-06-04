@@ -1,0 +1,37 @@
+<h1>mkdfs Module</h1>
+<h2>Description</h2>
+<p>Android External Storage Module</p>
+<h2>Accessing the mkdfs Module</h2>
+<p>To access this module from JavaScript, you would do the following:</p>
+<pre><code>var mkdfs = require("dk.mikkendigital.mkdfs");
+</code></pre>
+<p>The mkdfs variable is a reference to the Module object. </p>
+<h2>Reference</h2>
+<h3>dk.mikkendigital.mkdfs.externalStorageDirectory</h3>
+<p>Returns the device external storage directory as a string.
+<a href="https://developer.android.com/reference/android/os/Environment.html#getExternalStorageDirectory()">This is the same as calling Environment.getExternalStorageDirectory()</a>.</p>
+<h3>dk.mikkendigital.mkdfs.externalFilesDir</h3>
+<p>Returns the applications external storage folder as a string.
+This is the same as calling <a href="https://developer.android.com/reference/android/content/Context.html#getExternalFilesDir(java.lang.String)">Context.getExternalFilesDir()</a>.</p>
+<h2>Usage</h2>
+<p>~~~
+// Create a file in the external storage folder
+if (Ti.Platform.name == "android" &amp;&amp; Ti.Filesystem.isExternalStoragePresent()) {
+    var mkdfs = require('dk.mikkendigital.mkdfs');
+    Ti.API.info("module externalStorageDirectory is =&gt; " + mkdfs.externalStorageDirectory);
+    Ti.API.info("module externalFilesDir is =&gt; " + mkdfs.externalFilesDir);</p>
+<pre><code>var file = Ti.Filesystem.getFile('file://' + mkdfs.externalFilesDir, 'sample.txt');
+file.write('Newly created file on SD card');
+</code></pre>
+<p>} else {
+    alert('No external storage found!');
+}
+~~~</p>
+<h2>Author</h2>
+<p>Kenneth Skovhede, Mikken Digital S.M.B.A.</p>
+<h2>License</h2>
+<p>The MIT License (MIT)</p>
+<p>Copyright (c) 2013 Mikken Digital S.M.B.A.</p>
+<p>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:</p>
+<p>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.</p>
+<p>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</p>
