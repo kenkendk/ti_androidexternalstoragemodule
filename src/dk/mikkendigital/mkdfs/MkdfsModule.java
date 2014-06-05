@@ -12,14 +12,10 @@ import java.io.File;
 
 import org.appcelerator.kroll.KrollModule;
 import org.appcelerator.kroll.annotations.Kroll;
-
 import org.appcelerator.titanium.TiApplication;
-import org.appcelerator.kroll.common.Log;
-import org.appcelerator.kroll.common.TiConfig;
 
 import android.os.Environment;
 
-import android.content.Context;
 
 
 @Kroll.module(name="Mkdfs", id="dk.mikkendigital.mkdfs")
@@ -27,8 +23,6 @@ public class MkdfsModule extends KrollModule
 {
 
 	// Standard Debugging variables
-	private static final String LCAT = "MkdfsModule";
-	private static final boolean DBG = TiConfig.LOGD;
 	
 	//State info
 	private static TiApplication m_app; 
@@ -45,7 +39,6 @@ public class MkdfsModule extends KrollModule
 	public static void onAppCreate(TiApplication app)
 	{
 		// put module init code that needs to run when the application is created
-		Log.d(LCAT, "inside onAppCreate");
 		m_app = app;
 	}
 	
