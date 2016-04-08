@@ -19,9 +19,9 @@
  /Library/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/config/_native_headers.h \
  /Library/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_epilog.h \
  /Library/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_config_compat_post.h \
- /Users/michiel/Library/Application\ Support/Titanium/mobilesdk/osx/3.5.0.GA/android/native/include/Proxy.h \
- /Users/michiel/Library/Application\ Support/Titanium/mobilesdk/osx/3.5.0.GA/android/native/include/v8.h \
- /Users/michiel/Library/Application\ Support/Titanium/mobilesdk/osx/3.5.0.GA/android/native/include/v8stdint.h \
+ /Users/michiel/Library/Application\ Support/Titanium/mobilesdk/osx/5.2.2.GA/android/native/include/Proxy.h \
+ /Users/michiel/Library/Application\ Support/Titanium/mobilesdk/osx/5.2.2.GA/android/native/include/v8.h \
+ /Users/michiel/Library/Application\ Support/Titanium/mobilesdk/osx/5.2.2.GA/android/native/include/v8stdint.h \
  /Library/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stddef.h \
  /Library/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stdio.h \
  /Library/android-ndk-r10d/platforms/android-9/arch-x86/usr/include/../include/stdio.h \
@@ -38,12 +38,12 @@
  /Library/android-ndk-r10d/platforms/android-9/arch-x86/usr/include/linux/types.h \
  /Library/android-ndk-r10d/platforms/android-9/arch-x86/usr/include/machine/kernel.h \
  /Library/android-ndk-r10d/platforms/android-9/arch-x86/usr/include/sys/sysmacros.h \
- /Users/michiel/Library/Application\ Support/Titanium/mobilesdk/osx/3.5.0.GA/android/native/include/JavaObject.h \
+ /Users/michiel/Library/Application\ Support/Titanium/mobilesdk/osx/5.2.2.GA/android/native/include/JavaObject.h \
  /Library/android-ndk-r10d/sources/cxx-stl/stlport/stlport/assert.h \
  /Library/android-ndk-r10d/platforms/android-9/arch-x86/usr/include/../include/assert.h \
- /Users/michiel/Library/Application\ Support/Titanium/mobilesdk/osx/3.5.0.GA/android/native/include/EventEmitter.h \
- /Users/michiel/Library/Application\ Support/Titanium/mobilesdk/osx/3.5.0.GA/android/native/include/NativeObject.h \
- /Users/michiel/Library/Application\ Support/Titanium/mobilesdk/osx/3.5.0.GA/android/native/include/AndroidUtil.h \
+ /Users/michiel/Library/Application\ Support/Titanium/mobilesdk/osx/5.2.2.GA/android/native/include/EventEmitter.h \
+ /Users/michiel/Library/Application\ Support/Titanium/mobilesdk/osx/5.2.2.GA/android/native/include/NativeObject.h \
+ /Users/michiel/Library/Application\ Support/Titanium/mobilesdk/osx/5.2.2.GA/android/native/include/AndroidUtil.h \
  /Library/android-ndk-r10d/platforms/android-9/arch-x86/usr/include/android/log.h \
  /Library/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stdlib.h \
  /Library/android-ndk-r10d/platforms/android-9/arch-x86/usr/include/../include/stdlib.h \
@@ -53,15 +53,15 @@
  /Library/android-ndk-r10d/platforms/android-9/arch-x86/usr/include/alloca.h \
  /Library/android-ndk-r10d/platforms/android-9/arch-x86/usr/include/strings.h \
  /Library/android-ndk-r10d/platforms/android-9/arch-x86/usr/include/memory.h \
- /Users/michiel/Library/Application\ Support/Titanium/mobilesdk/osx/3.5.0.GA/android/native/include/EventEmitter.h \
- /Users/michiel/Library/Application\ Support/Titanium/mobilesdk/osx/3.5.0.GA/android/native/include/JNIUtil.h \
- /Users/michiel/Library/Application\ Support/Titanium/mobilesdk/osx/3.5.0.GA/android/native/include/AndroidUtil.h \
- /Users/michiel/Library/Application\ Support/Titanium/mobilesdk/osx/3.5.0.GA/android/native/include/JSException.h \
- /Users/michiel/Library/Application\ Support/Titanium/mobilesdk/osx/3.5.0.GA/android/native/include/ProxyFactory.h \
- /Users/michiel/Library/Application\ Support/Titanium/mobilesdk/osx/3.5.0.GA/android/native/include/TypeConverter.h \
- /Users/michiel/Library/Application\ Support/Titanium/mobilesdk/osx/3.5.0.GA/android/native/include/V8Util.h \
- /Users/michiel/Library/Application\ Support/Titanium/mobilesdk/osx/3.5.0.GA/android/native/include/org.appcelerator.kroll.KrollModule.h \
- /Users/michiel/Library/Application\ Support/Titanium/mobilesdk/osx/3.5.0.GA/android/native/include/Proxy.h
+ /Users/michiel/Library/Application\ Support/Titanium/mobilesdk/osx/5.2.2.GA/android/native/include/EventEmitter.h \
+ /Users/michiel/Library/Application\ Support/Titanium/mobilesdk/osx/5.2.2.GA/android/native/include/JNIUtil.h \
+ /Users/michiel/Library/Application\ Support/Titanium/mobilesdk/osx/5.2.2.GA/android/native/include/AndroidUtil.h \
+ /Users/michiel/Library/Application\ Support/Titanium/mobilesdk/osx/5.2.2.GA/android/native/include/JSException.h \
+ /Users/michiel/Library/Application\ Support/Titanium/mobilesdk/osx/5.2.2.GA/android/native/include/ProxyFactory.h \
+ /Users/michiel/Library/Application\ Support/Titanium/mobilesdk/osx/5.2.2.GA/android/native/include/TypeConverter.h \
+ /Users/michiel/Library/Application\ Support/Titanium/mobilesdk/osx/5.2.2.GA/android/native/include/V8Util.h \
+ /Users/michiel/Library/Application\ Support/Titanium/mobilesdk/osx/5.2.2.GA/android/native/include/org.appcelerator.kroll.KrollModule.h \
+ /Users/michiel/Library/Application\ Support/Titanium/mobilesdk/osx/5.2.2.GA/android/native/include/Proxy.h
 
 jni/dk.mikkendigital.mkdfs.MkdfsModule.h:
 
@@ -101,11 +101,11 @@ jni/dk.mikkendigital.mkdfs.MkdfsModule.h:
 
 /Library/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_config_compat_post.h:
 
-/Users/michiel/Library/Application\ Support/Titanium/mobilesdk/osx/3.5.0.GA/android/native/include/Proxy.h:
+/Users/michiel/Library/Application\ Support/Titanium/mobilesdk/osx/5.2.2.GA/android/native/include/Proxy.h:
 
-/Users/michiel/Library/Application\ Support/Titanium/mobilesdk/osx/3.5.0.GA/android/native/include/v8.h:
+/Users/michiel/Library/Application\ Support/Titanium/mobilesdk/osx/5.2.2.GA/android/native/include/v8.h:
 
-/Users/michiel/Library/Application\ Support/Titanium/mobilesdk/osx/3.5.0.GA/android/native/include/v8stdint.h:
+/Users/michiel/Library/Application\ Support/Titanium/mobilesdk/osx/5.2.2.GA/android/native/include/v8stdint.h:
 
 /Library/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stddef.h:
 
@@ -139,17 +139,17 @@ jni/dk.mikkendigital.mkdfs.MkdfsModule.h:
 
 /Library/android-ndk-r10d/platforms/android-9/arch-x86/usr/include/sys/sysmacros.h:
 
-/Users/michiel/Library/Application\ Support/Titanium/mobilesdk/osx/3.5.0.GA/android/native/include/JavaObject.h:
+/Users/michiel/Library/Application\ Support/Titanium/mobilesdk/osx/5.2.2.GA/android/native/include/JavaObject.h:
 
 /Library/android-ndk-r10d/sources/cxx-stl/stlport/stlport/assert.h:
 
 /Library/android-ndk-r10d/platforms/android-9/arch-x86/usr/include/../include/assert.h:
 
-/Users/michiel/Library/Application\ Support/Titanium/mobilesdk/osx/3.5.0.GA/android/native/include/EventEmitter.h:
+/Users/michiel/Library/Application\ Support/Titanium/mobilesdk/osx/5.2.2.GA/android/native/include/EventEmitter.h:
 
-/Users/michiel/Library/Application\ Support/Titanium/mobilesdk/osx/3.5.0.GA/android/native/include/NativeObject.h:
+/Users/michiel/Library/Application\ Support/Titanium/mobilesdk/osx/5.2.2.GA/android/native/include/NativeObject.h:
 
-/Users/michiel/Library/Application\ Support/Titanium/mobilesdk/osx/3.5.0.GA/android/native/include/AndroidUtil.h:
+/Users/michiel/Library/Application\ Support/Titanium/mobilesdk/osx/5.2.2.GA/android/native/include/AndroidUtil.h:
 
 /Library/android-ndk-r10d/platforms/android-9/arch-x86/usr/include/android/log.h:
 
@@ -169,20 +169,20 @@ jni/dk.mikkendigital.mkdfs.MkdfsModule.h:
 
 /Library/android-ndk-r10d/platforms/android-9/arch-x86/usr/include/memory.h:
 
-/Users/michiel/Library/Application\ Support/Titanium/mobilesdk/osx/3.5.0.GA/android/native/include/EventEmitter.h:
+/Users/michiel/Library/Application\ Support/Titanium/mobilesdk/osx/5.2.2.GA/android/native/include/EventEmitter.h:
 
-/Users/michiel/Library/Application\ Support/Titanium/mobilesdk/osx/3.5.0.GA/android/native/include/JNIUtil.h:
+/Users/michiel/Library/Application\ Support/Titanium/mobilesdk/osx/5.2.2.GA/android/native/include/JNIUtil.h:
 
-/Users/michiel/Library/Application\ Support/Titanium/mobilesdk/osx/3.5.0.GA/android/native/include/AndroidUtil.h:
+/Users/michiel/Library/Application\ Support/Titanium/mobilesdk/osx/5.2.2.GA/android/native/include/AndroidUtil.h:
 
-/Users/michiel/Library/Application\ Support/Titanium/mobilesdk/osx/3.5.0.GA/android/native/include/JSException.h:
+/Users/michiel/Library/Application\ Support/Titanium/mobilesdk/osx/5.2.2.GA/android/native/include/JSException.h:
 
-/Users/michiel/Library/Application\ Support/Titanium/mobilesdk/osx/3.5.0.GA/android/native/include/ProxyFactory.h:
+/Users/michiel/Library/Application\ Support/Titanium/mobilesdk/osx/5.2.2.GA/android/native/include/ProxyFactory.h:
 
-/Users/michiel/Library/Application\ Support/Titanium/mobilesdk/osx/3.5.0.GA/android/native/include/TypeConverter.h:
+/Users/michiel/Library/Application\ Support/Titanium/mobilesdk/osx/5.2.2.GA/android/native/include/TypeConverter.h:
 
-/Users/michiel/Library/Application\ Support/Titanium/mobilesdk/osx/3.5.0.GA/android/native/include/V8Util.h:
+/Users/michiel/Library/Application\ Support/Titanium/mobilesdk/osx/5.2.2.GA/android/native/include/V8Util.h:
 
-/Users/michiel/Library/Application\ Support/Titanium/mobilesdk/osx/3.5.0.GA/android/native/include/org.appcelerator.kroll.KrollModule.h:
+/Users/michiel/Library/Application\ Support/Titanium/mobilesdk/osx/5.2.2.GA/android/native/include/org.appcelerator.kroll.KrollModule.h:
 
-/Users/michiel/Library/Application\ Support/Titanium/mobilesdk/osx/3.5.0.GA/android/native/include/Proxy.h:
+/Users/michiel/Library/Application\ Support/Titanium/mobilesdk/osx/5.2.2.GA/android/native/include/Proxy.h:

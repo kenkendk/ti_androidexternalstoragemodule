@@ -30,12 +30,12 @@ public:
 
 private:
 	// Methods -----------------------------------------------------------
-	static v8::Handle<v8::Value> getExternalStorageDirectory(const v8::Arguments&);
 	static v8::Handle<v8::Value> getExternalFilesDir(const v8::Arguments&);
+	static v8::Handle<v8::Value> getExternalStorageDirectory(const v8::Arguments&);
 
 	// Dynamic property accessors ----------------------------------------
-	static v8::Handle<v8::Value> getter_externalFilesDir(v8::Local<v8::String> property, const v8::AccessorInfo& info);
 	static v8::Handle<v8::Value> getter_externalStorageDirectory(v8::Local<v8::String> property, const v8::AccessorInfo& info);
+	static v8::Handle<v8::Value> getter_externalFilesDir(v8::Local<v8::String> property, const v8::AccessorInfo& info);
 
 };
 

@@ -18,8 +18,8 @@
  /Library/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/config/_native_headers.h \
  /Library/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_epilog.h \
  /Library/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_config_compat_post.h \
- /Users/michiel/Library/Application\ Support/Titanium/mobilesdk/osx/3.5.0.GA/android/native/include/v8.h \
- /Users/michiel/Library/Application\ Support/Titanium/mobilesdk/osx/3.5.0.GA/android/native/include/v8stdint.h \
+ /Users/michiel/Library/Application\ Support/Titanium/mobilesdk/osx/5.2.2.GA/android/native/include/v8.h \
+ /Users/michiel/Library/Application\ Support/Titanium/mobilesdk/osx/5.2.2.GA/android/native/include/v8stdint.h \
  /Library/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stddef.h \
  /Library/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stdio.h \
  /Library/android-ndk-r10d/platforms/android-3/arch-arm/usr/include/../include/stdio.h \
@@ -35,7 +35,7 @@
  /Library/android-ndk-r10d/platforms/android-3/arch-arm/usr/include/linux/types.h \
  /Library/android-ndk-r10d/platforms/android-3/arch-arm/usr/include/machine/kernel.h \
  /Library/android-ndk-r10d/platforms/android-3/arch-arm/usr/include/sys/sysmacros.h \
- /Users/michiel/Library/Application\ Support/Titanium/mobilesdk/osx/3.5.0.GA/android/native/include/AndroidUtil.h \
+ /Users/michiel/Library/Application\ Support/Titanium/mobilesdk/osx/5.2.2.GA/android/native/include/AndroidUtil.h \
  /Library/android-ndk-r10d/platforms/android-3/arch-arm/usr/include/android/log.h \
  /Library/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stdlib.h \
  /Library/android-ndk-r10d/platforms/android-3/arch-arm/usr/include/../include/stdlib.h \
@@ -45,7 +45,7 @@
  /Library/android-ndk-r10d/platforms/android-3/arch-arm/usr/include/alloca.h \
  /Library/android-ndk-r10d/platforms/android-3/arch-arm/usr/include/strings.h \
  /Library/android-ndk-r10d/platforms/android-3/arch-arm/usr/include/memory.h \
- /Users/michiel/Library/Application\ Support/Titanium/mobilesdk/osx/3.5.0.GA/android/native/include/KrollBindings.h \
+ /Users/michiel/Library/Application\ Support/Titanium/mobilesdk/osx/5.2.2.GA/android/native/include/KrollBindings.h \
  /Library/android-ndk-r10d/sources/cxx-stl/stlport/stlport/map \
  /Library/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_prolog.h \
  /Library/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/debug/_debug.h \
@@ -162,15 +162,15 @@
  /Library/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_vector.h \
  /Library/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_vector.c \
  /Library/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_bvector.h \
- /Users/michiel/Library/Application\ Support/Titanium/mobilesdk/osx/3.5.0.GA/android/native/include/V8Util.h \
+ /Users/michiel/Library/Application\ Support/Titanium/mobilesdk/osx/5.2.2.GA/android/native/include/V8Util.h \
  jni/../BootstrapJS.cpp jni/../KrollGeneratedBindings.cpp \
  jni/dk.mikkendigital.mkdfs.MkdfsModule.h \
- /Users/michiel/Library/Application\ Support/Titanium/mobilesdk/osx/3.5.0.GA/android/native/include/Proxy.h \
- /Users/michiel/Library/Application\ Support/Titanium/mobilesdk/osx/3.5.0.GA/android/native/include/JavaObject.h \
+ /Users/michiel/Library/Application\ Support/Titanium/mobilesdk/osx/5.2.2.GA/android/native/include/Proxy.h \
+ /Users/michiel/Library/Application\ Support/Titanium/mobilesdk/osx/5.2.2.GA/android/native/include/JavaObject.h \
  /Library/android-ndk-r10d/sources/cxx-stl/stlport/stlport/assert.h \
  /Library/android-ndk-r10d/platforms/android-3/arch-arm/usr/include/../include/assert.h \
- /Users/michiel/Library/Application\ Support/Titanium/mobilesdk/osx/3.5.0.GA/android/native/include/EventEmitter.h \
- /Users/michiel/Library/Application\ Support/Titanium/mobilesdk/osx/3.5.0.GA/android/native/include/NativeObject.h
+ /Users/michiel/Library/Application\ Support/Titanium/mobilesdk/osx/5.2.2.GA/android/native/include/EventEmitter.h \
+ /Users/michiel/Library/Application\ Support/Titanium/mobilesdk/osx/5.2.2.GA/android/native/include/NativeObject.h
 
 /Library/android-ndk-r10d/platforms/android-3/arch-arm/usr/include/jni.h:
 
@@ -208,9 +208,9 @@
 
 /Library/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_config_compat_post.h:
 
-/Users/michiel/Library/Application\ Support/Titanium/mobilesdk/osx/3.5.0.GA/android/native/include/v8.h:
+/Users/michiel/Library/Application\ Support/Titanium/mobilesdk/osx/5.2.2.GA/android/native/include/v8.h:
 
-/Users/michiel/Library/Application\ Support/Titanium/mobilesdk/osx/3.5.0.GA/android/native/include/v8stdint.h:
+/Users/michiel/Library/Application\ Support/Titanium/mobilesdk/osx/5.2.2.GA/android/native/include/v8stdint.h:
 
 /Library/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stddef.h:
 
@@ -242,7 +242,7 @@
 
 /Library/android-ndk-r10d/platforms/android-3/arch-arm/usr/include/sys/sysmacros.h:
 
-/Users/michiel/Library/Application\ Support/Titanium/mobilesdk/osx/3.5.0.GA/android/native/include/AndroidUtil.h:
+/Users/michiel/Library/Application\ Support/Titanium/mobilesdk/osx/5.2.2.GA/android/native/include/AndroidUtil.h:
 
 /Library/android-ndk-r10d/platforms/android-3/arch-arm/usr/include/android/log.h:
 
@@ -262,7 +262,7 @@
 
 /Library/android-ndk-r10d/platforms/android-3/arch-arm/usr/include/memory.h:
 
-/Users/michiel/Library/Application\ Support/Titanium/mobilesdk/osx/3.5.0.GA/android/native/include/KrollBindings.h:
+/Users/michiel/Library/Application\ Support/Titanium/mobilesdk/osx/5.2.2.GA/android/native/include/KrollBindings.h:
 
 /Library/android-ndk-r10d/sources/cxx-stl/stlport/stlport/map:
 
@@ -496,7 +496,7 @@
 
 /Library/android-ndk-r10d/sources/cxx-stl/stlport/stlport/stl/_bvector.h:
 
-/Users/michiel/Library/Application\ Support/Titanium/mobilesdk/osx/3.5.0.GA/android/native/include/V8Util.h:
+/Users/michiel/Library/Application\ Support/Titanium/mobilesdk/osx/5.2.2.GA/android/native/include/V8Util.h:
 
 jni/../BootstrapJS.cpp:
 
@@ -504,14 +504,14 @@ jni/../KrollGeneratedBindings.cpp:
 
 jni/dk.mikkendigital.mkdfs.MkdfsModule.h:
 
-/Users/michiel/Library/Application\ Support/Titanium/mobilesdk/osx/3.5.0.GA/android/native/include/Proxy.h:
+/Users/michiel/Library/Application\ Support/Titanium/mobilesdk/osx/5.2.2.GA/android/native/include/Proxy.h:
 
-/Users/michiel/Library/Application\ Support/Titanium/mobilesdk/osx/3.5.0.GA/android/native/include/JavaObject.h:
+/Users/michiel/Library/Application\ Support/Titanium/mobilesdk/osx/5.2.2.GA/android/native/include/JavaObject.h:
 
 /Library/android-ndk-r10d/sources/cxx-stl/stlport/stlport/assert.h:
 
 /Library/android-ndk-r10d/platforms/android-3/arch-arm/usr/include/../include/assert.h:
 
-/Users/michiel/Library/Application\ Support/Titanium/mobilesdk/osx/3.5.0.GA/android/native/include/EventEmitter.h:
+/Users/michiel/Library/Application\ Support/Titanium/mobilesdk/osx/5.2.2.GA/android/native/include/EventEmitter.h:
 
-/Users/michiel/Library/Application\ Support/Titanium/mobilesdk/osx/3.5.0.GA/android/native/include/NativeObject.h:
+/Users/michiel/Library/Application\ Support/Titanium/mobilesdk/osx/5.2.2.GA/android/native/include/NativeObject.h:
