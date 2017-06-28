@@ -2,10 +2,10 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry kind="lib" path="/Users/michiel/Library/Application Support/Titanium/mobilesdk/osx/3.5.0.GA/android/kroll-v8.jar"/>
-	<classpathentry kind="lib" path="/Users/michiel/Library/Application Support/Titanium/mobilesdk/osx/3.5.0.GA/android/kroll-common.jar"/>
-	<classpathentry kind="lib" path="/Users/michiel/Library/Application Support/Titanium/mobilesdk/osx/3.5.0.GA/android/kroll-apt.jar"/>
+	<classpathentry kind="lib" path="/Users/patakijv/Library/Application Support/Titanium/mobilesdk/osx/6.1.0.GA/android/kroll-v8.jar"/>
+	<classpathentry kind="lib" path="/Users/patakijv/Library/Application Support/Titanium/mobilesdk/osx/6.1.0.GA/android/kroll-common.jar"/>
+	<classpathentry kind="lib" path="/Users/patakijv/Library/Application Support/Titanium/mobilesdk/osx/6.1.0.GA/android/kroll-apt.jar"/>
 	<classpathentry kind="lib" path="/Users/michiel/Library/Android/sdk/platforms/android-21/android.jar"/>
-	<classpathentry kind="lib" path="/Users/michiel/Library/Application Support/Titanium/mobilesdk/osx/3.5.0.GA/android/titanium.jar"/>
+	<classpathentry kind="lib" path="/Users/patakijv/Library/Application Support/Titanium/mobilesdk/osx/6.1.0.GA/android/titanium.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

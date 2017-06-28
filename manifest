@@ -2,8 +2,8 @@
 # this is your module manifest and used by Titanium
 # during compilation, packaging, distribution, etc.
 #
-version: 0.33
-apiversion: 2
+version: 0.4
+apiversion: 3
 description: Android External Storage Module
 author: Kenneth Skovhede
 license: MIT License
@@ -15,4 +15,4 @@ name: mkdfs
 moduleid: dk.mikkendigital.mkdfs
 guid: f2472240-4924-4948-abea-22f022593482
 platform: android
-minsdk: 3.2.3.GA
+minsdk: 6.1.0.GA
