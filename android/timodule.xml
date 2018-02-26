@@ -2,7 +2,7 @@
 <ti:module xmlns:ti="http://ti.appcelerator.org" xmlns:android="http://schemas.android.com/apk/res/android">
 	<!--
 		Similar to tiapp.xml, but contains module/platform specific
-		configuration in <iphone>, <android>, and <mobileweb> sections
+		configuration in <iphone> and <android> sections
 	-->
 	<iphone>
 	</iphone>
@@ -12,6 +12,4 @@
             <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
         </manifest>
 	</android>
-	<mobileweb>
-	</mobileweb>
 </ti:module>
